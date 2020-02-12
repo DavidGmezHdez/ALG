@@ -2,7 +2,7 @@
 Repositorio para las prácticas de la asignatura de Algorítmica. Grado en Ingeniería Informática Curso 2018-2019 (UGR).
 
 ## Autores
-Francisco Domínguez Lorente  
+Francisco Domínguez Lorente [@frandominguez03](https://github.com/frandominguez03)  
 Nora Itafti Rivas  
 David Gómez Hernández [*@DavidGmezHdez*](https://github.com/davidgmezhdez)  
 Miguel Ángel Posadas Arráez [*@migue99angel*](https://github.com/migue99angel)
